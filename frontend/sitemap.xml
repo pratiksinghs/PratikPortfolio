@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://pratiksinghs.vercel.app/</loc>
+    </url>
+
+    <url>
+        <loc>https://pratiksinghs.vercel.app/about.html</loc>
+    </url>
+
+    <url>
+        <loc>https://pratiksinghs.vercel.app/skills.html</loc>
+    </url>
+
+    <url>
+        <loc>https://pratiksinghs.vercel.app/projects.html</loc>
+    </url>
+
+    <url>
+        <loc>https://pratiksinghs.vercel.app/contact.html</loc>
+    </url>
+
+    <url>
+        <loc>https://pratiksinghs.vercel.app/resume.html</loc>
+    </url>
+
+</urlset>
